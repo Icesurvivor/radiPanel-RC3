@@ -1,0 +1,11 @@
+		<!-- Le css, at the end of the page for faster loading. -->
+		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-alert.js"></script>
+		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tab.js"></script>
+		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-dropdown.js"></script>
+		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script>
+		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-collapse.js"></script>
+		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tooltip.js"></script>
+		<script src="assets/application.js"></script>
+		
+		
+		

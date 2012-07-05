@@ -1,0 +1,16 @@
+		<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<!-- styles -->
+		
+		
+		<link rel="stylesheet" href="http://bootswatch.com/default/bootstrap.min.css">
+		
+		<!--<link rel="stylesheet" href="//jiajiann.com/assets/css/bootstrap.min.css">-->
+		<link rel="stylesheet" href="http://bootswatch.com/assets/css/bootstrap-responsive.css">
+		<!-- or ttp://bootswatch.com/css/docs.css -->
+		<link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/docs.css">
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src="https://raw.github.com/ReactiveRaven/jqBootstrapValidation/master/jqBootstrapValidation.js"></script>
