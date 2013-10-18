@@ -5,7 +5,7 @@
 	 * constants. can be scrapped soon
 	 */
 	define( "TPL_PATH", "assets" );
-	define( "PANEL_PATH", "http://jiajiann.com/extranet2/" );
+	define( "PANEL_PATH", "{$g->path}" );
 	
 	/*
 	 * Edited.
